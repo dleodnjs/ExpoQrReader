@@ -9,3 +9,6 @@ expo setup
 
 projectに入って、
 > expo start
+
+端末確認は、
+AppStore、PlayStoreから「Expo」をダウンロードしてください。
