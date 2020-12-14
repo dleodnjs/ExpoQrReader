@@ -1,12 +1,15 @@
 # ExpoQrReader
 expo, barcode-scanを使いました。
 
-expo setup
+## expo設置
 
 > npm install expo-cli --global
+
+## expoスタート
 
 projectに入って、
 > expo start
 
-端末確認は、
-AppStore、PlayStoreから「Expo」をダウンロードしてください。
+## アプリ確認
+
+端末確認は、AppStore、PlayStoreから「Expo」をダウンロードしてく、QrCode読み込み。
