@@ -1,5 +1,5 @@
-# ExpoQrReader
-expo, barcode-scanを使いました。
+# ReactNative - QrReader
+ExpoCLIを使いました。
 
 
 ## expo設置
