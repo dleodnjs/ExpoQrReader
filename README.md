@@ -1,5 +1,5 @@
 # ExpoQrReader
-expo, barcode-scan
+expo, barcode-scanを使いました。
 
 expo setup
 
